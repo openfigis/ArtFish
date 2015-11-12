@@ -1,0 +1,16 @@
+"April 2007 - Reports","Active days","  "
+" "," ","  "
+"Minor strata","All boat/gears","Active days"
+" "," ","  "
+"minor11","small non motorized canoe",26
+"minor11","medium motorized canoe",26
+"minor12","small non motorized canoe",26
+"minor21","small non motorized canoe",26
+"minor22","small non motorized canoe",26
+"minor31","small non motorized canoe",26
+"minor32","small non motorized canoe",26
+"minor12","medium motorized canoe",26
+"minor21","medium motorized canoe",26
+"minor22","medium motorized canoe",26
+"minor31","medium motorized canoe",26
+"minor32","medium motorized canoe",26

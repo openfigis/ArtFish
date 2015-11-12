@@ -1,0 +1,2 @@
+This is the subdirectory where the ArtBasic Tables will be stored 
+by the EXPORT.BAT file

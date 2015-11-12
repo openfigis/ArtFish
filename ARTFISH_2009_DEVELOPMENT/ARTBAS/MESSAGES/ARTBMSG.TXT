@@ -1,0 +1,500 @@
+1,"English","Français","Espa?ol","ÚÑÈì"
+2,"Functions","Fonctions","Funciones","æÙÇÆİ ÇáäÙÇã"
+3,"Quit  ","Quitter  ","Salir  ","ÇáÎÑæÌ ãä ÇáäÙÇã"
+4,"Selection of language and reference period","Sélection de langue et période de référence","Selecci?n Lenguaje y Per?odo Referencia","ÇÎÊíÇÑ ÇááÛÉ æÇáİÊÑÉ ÇáÒãäíÉ"
+5,"Click on a month to select","Cliquer en un mois pour le séléctionner","Click p/seleccionar mes","ÇÖÛØ Úáì ÇáÔåÑ áÅÎÊíÇÑÉ"
+6,"Duplicate tables","Doubler tableaux","Duplicar tablas","äÓÎ ÇáÌÏÇæá"
+7,"Click on periods to select ","Clicker en périodes pour séléctionner","Click per?odos para seleccionar","ÚÑÖ ÇáÌÏÇæá"
+8,"New tables","Nouveau tableaux","Nuevas tablas","ÌÏÇæá ÌÏíÏÉ"
+9,"Delete all tables and data","Annuler tous les tableaux et données","Borrar tablas y datos","ÍĞİ ßá ÇáÌÏÇæá æÇáÈíÇäÇÊ"
+10,"Modify","Modifier","Modificar","ÊÚÏíá"
+11,"Select","Séléctionner","Seleccionar","ÇÎÊíÇÑ"
+12,"Modify tables","Modifier tableaux","Modificar tablas","ÊÚÏíá ÇáÌÏÇæá"
+13,"Return to main screen","Retour au menu principal","Volver principal","ÇáÚæÏÉ ááÔÇÔÉ ÇáÑÆíÓíÉ"
+14,"Selection table","Tableau de sélection","Tabla de selecci?n","ÇÎÊíÇÑ ÌÏæá"
+15,"Year","Année","A?o","ÓäÉ"
+16,"Month","Mois","Mes","ÔåÑ"
+17,"Title","Titre","T?tulo","ÚäæÇä"
+18,"January","Janvier","Enero","íäÇíÑ"
+19,"February","Février","Febrero","İÈÑÇíÑ"
+20,"March","Mars","Marzo","ãÇÑÓ"
+21,"April","Avril","Abril","ÇÈÑíá"
+22,"May","Mai","Mayo","ãÇíæ"
+23,"June","Juin","Junio","íæäíæ"
+24,"July","Juillet","Julio","íæáíæ"
+25,"August","Août","Agosto","ÇÛÓØÓ"
+26,"September","Septembre","Septiembre","ÓÈÊãÈÑ"
+27,"October","Octobre","Octubre","ÇßÊæÈÑ"
+28,"November","Novembre","Noviembre","äæİãÈÑ"
+29,"December","Décembre","Diciembre","ÏíÓãÈÑ"
+30,"Strata","Strates","Estratos","İÆÉ"
+31,"System","Système","Sistema","äÙÇã"
+32,"Untitled","Sans titre","Sin t?tulo","ÈÏæä ÚäæÇä"
+33,"Effort","Effort","Esfuerzo","ÌåÏ"
+34,"Landings","Débarquements","Desembarques","ÃäÒÇáÇÊ"
+35,"Active days","Jours actifs","D?as activos","ÇíÇã Úãá"
+36,"Please confirm","Confirmer SVP","Favor confirmar","ÈÑÌÇÁ ÇáÊÃßíÏ"
+37,"Estimation","Estimations","Estimaci?n","ÊŞÏíÑ"
+38,"Reports","Rapports","Reportes","ÊŞÇÑíÑ"
+39,"Tables","Tableaux","Tablas","ÌÏÇæá"
+40,"Main functions","Fonctions principales","Funciones principales","æÙÇÆİ ÑÆíÓíÉ"
+41,"Major strata","Strates majeures","Estratos mayores","İÆÉ ÑÆíÓíÉ"
+42,"Minor strata","Strates mineures","Estratos menores","İÆÉ İÑÚíÉ"
+43,"Sites","Sites","Sitios","ãæÇŞÚ"
+44,"Associations sites > Minor strata","Associations sites > Strates mineures","Asociaciones  Sitios > Estratos menores","ãæÇŞÚ ãÑÊÈØÉ > İÆÉ İÑÚíÉ"
+45,"Fishing units","Unités de pêche","Lanchas","æÍÏÇÊ ÕíÏ"
+46,"Frame survey","Enquête cadre","Encuesta estructural","ãÓÍ ÅØÇÑì"
+47,"Species","Espèces","Especies","ÃÕäÇİ"
+48,"Units","Unités","Unidades ","æÍÏÇÊ ÕíÏ"
+49,"Return to main functions","Retour aux fonctions principales","Volver funciones principales","ÚæÏÉ ááæÙÇÆİ ÇáÑÆíÓíÉ"
+50,"Renumber","Codes en séquence","Renumerar","ÅÚÇÏÉ ÊÑŞíã"
+51,"Update & return","Sauvegarder & retourner","Salvar y retornar","ÇáÊÍÏíË æÇáÚæÏÉ"
+52,"Print","Imprimer","Imprimir","ØÈÇÚÉ"
+53,"Code","Code","C?d.","ßæÏ"
+54,"Description","Description","Descripci?n","æÕİ"
+55,"Remark","Remarque","Observaci?n","ãáÍæÙÉ"
+56,"SEQ.","SEQ.","SEQ","ÊÑÊíÈ"
+57,"Frame survey","Enquête cadre","Encuesta estructural","ãÓÍ ÅØÇÑì"
+58,"Change line to update an entry","Changer ligne pour finir un enregistrement","Cambiar l?nea p/actualizar registro","ÛíÑ ãßÇä ÇáÓØÑ áÊÓÌíá ÇáÈíÇä"
+59,"Blank DESCRIPTION to delete","Annuler DESCRIPTION pour effacer","Blanquear DESCRIPCION p/borrar ","æÕİ ÎÇáì ááÍĞİ"
+60,"Back without updating","Retour sans sauvegarde","Retornar sin actualizar","ÚæÏÉ ÈÏæä ÊÍÏíË"
+61,"Calendar","Calendrier","Calendario","äÊíÌÉ (ÑæÒäÇãÉ)"
+62,"Units","Unités","Unidades","æÍÏÇÊ"
+63,"Associations MINOR strata  > MAJOR","Associations Strates MINEURES > MAJEURES","Asociaciones Estratos MENORES > MAYORES","ÑÈØ İÆÇÊ İÑÚíÉ > ÑÆíÓíÉ"
+64,"PLS confirm","Confirmer SVP","Favor confirmar","ÈÑÌÇÁ ÇáÊÃßíÏ"
+65,"Cancel associations","Annuler associations","Anular asociaciones","ÊÑÇÌÚ Úä ÇáÑÈØ"
+66,"Site & boat/gear type","Site & type bateau/engin","Sitio y tipo lancha/arte","ãæŞÚ & äæÚ ÇáŞÇÑÈ/ ÇáÍÑİÉ"
+67,"# Units","N.Unités","# Lanchas","ÚÏÏ ÇáæÍÏÇÊ"
+68,"Minor stratum & boat/gear type","Strate mineure & type bateau/engin","Estrato menor y tipo lancha/arte","İÆÉ İÑÚíÉ & äæÛ ÇáŞÇÑÈ / ÇáÍÑİÉ"
+69,"# days","N.jours","N?mero d?as","ÚÏÏ ÇáÇíÇã"
+70,"General data services","Gestion générale des données","Manejo general datos","ÎÏãÉ ÇáÈíÇäÇÊ ÇáÚÇãÉ"
+71,"  Act.     Sampl.     Frame","   Act.    Echa.     Cadre","Act. Marco muestral","İÚáì             ÚíäÉ              ãÓÍ"
+72,"Select a minor stratum","Sélection strate mineure","Seleccionar estrato menor","ÇÎÊÇÑ İÆÉ İÑÚíÉ"
+73,"Select site and boat/gear type","Sélection site et type bateau/engin","Seleccionar sitio y tipo lancha/arte","ÇÎÊÇÑ ãæŞÚ æŞÇÑÈ/ÍÑİÉ ÕíÏ"
+74,"Associate","Associer","Asociar","ÑÈØ"
+75,"Results","Résultats","Resultados","äÊÇÆÌ"
+76,"Association error","Erreur d' association","Error asociaci?n","ÑÈØ ÎÇØÆ"
+77,"Save and continue","Sauvegarder et continuer","Salvar y continuar","ÍİÙ æÇÓÊãÑÇÑ"
+78,"Print","Imprimer","Imprimir","ØÈÇÚÉ"
+79,"Save and stay","Sauvegarder et rester","Salvar y esperar","ÍİÙ æÇÓÊãÑ"
+80,"Delete","Annuler","Anular","ÍĞİ"
+81,"Continue without saving","Continuer sans sauvegarde","Continuar sin salvar","ÇÓÊãÑÇÑ ÈÏæä ÍİÙ"
+82,"Recorder(s): Max. 15 chrs","Enquêteur(s): Max. 15 chrs","Encuestador(es): Max. 15 chrs","ÓÌá / ÓÌáÇÊ"
+83,"Day","Jour","D?a","íæã"
+84,"Active","Actifs","Activo","İÚÇá"
+85,"Sampled","Echant.","Muestreado","ÚíäÉ"
+86,"Frame","Cadre","Marco","ÅØÇÑ"
+87,"Landings","Débarquements","Desembarques","ÅäÒÇáÇÊ"
+88,"# Units","# Unités","#Lanchas","ÚÏÏ ÇáæÍÏÇÊ"
+89,"Dur.","Durée","Duraci?n","ÇáãÏÉ"
+90,"Sample","Echant.","Muestra","ÚíäÉ"
+91,"Total","Total","Total","ÇÌãÇáì"
+92,"Add document","Nouveu document","Nuevo documento","ÅÖÇİÉ ãÓÊäÏ"
+93,"# of","# de","# de","ÚÏÏ"
+94,"Price","Prix","Precio","ÓÚÑ"
+95,"Value","Valeur","Valor","ŞíãÉ"
+96,"Duplicate","Doubler","Duplicar","ÖÇÚİ"
+97,"Quant.","Quant.","Cant.","ßãíÉ"
+98,"Day","Jour","D?a","íæã"
+99,"Catch cannot be 0. Use 0.001","Capture peut pas être 0. Utiliser 0,001","Captura no puede ser 0. Usar 0.001","ÇáÕíÏ áÇíãßä Çä íßæä 0 íãßäß ßÊÇÈÉ 1..Ñ"
+100,"Continue sites/boat types","Continuer sites/types bateaux","Continuar sitios/tipos lancha","ÇÓÊãÑ ÇáãæÇŞÚ/ ÇäæÇÚ ÇáŞæÇÑÈ"
+101,"Check please:","Contrôler SVP:","Favor controlar","ÈÑÌÇÁ ÇáÊÃßÏ:"
+102,"Species total:","Totales éspèces:","Total especies","ÇÌãÇáì ÇáÇÕäÇİ:"
+103,"Sample total:","Quant. échant:","Total muestras","ÇÌãÇáì ÇáÚíäÉ:"
+104,"ATTENTION!!!   function will delete:","ATTENTION!!!   fonction annulera:","ATENCION!!!   funcion se borrar?:","ÇäÊÈå !! áäÙÇã ÓíÍĞİ:"
+105,"Associations of strata","Associations des strates","Asociaciones de estratos","ÑÈØ ÇáİÆÇÊ"
+106,"Associations of sites","Associations des sites","Asociaciones de sitios","ÑÈØ ÇáãæÇŞÚ"
+107,"Frame-survey","Enquête-cadre","Encuesta-Estructural","ãÓÍ ÅØÇÑì"
+108,"Active days","Jours actifs","D?as activos","ÇíÇã Úãá"
+109,"Effort data","Données sur l'effort","Datos esfuerzo","ÈíÇäÇÊ ÇáÌåÏ"
+110,"Landings","Débarquements","Desembarques","ÅäÒÇáÇÊ"
+111,"Estimations","Estimations","Estimaciones","ÊŞÏíÑÇÊ"
+112,"Delete record","Annuler enregistr.","Borrar registro","ÍĞİ ÓÌá"
+113,"Start","Commencer","Inicio","ÈÏÇíÉ"
+114,"Data integration","Intégration des données","Integraci?n datos","ÊßÇãá ÇáÈíÇäÇÊ"
+115,"Active days","Jours actifs","D?as activos","ÇíÇã Úãá"
+116,"Active:","Actifs:","Activos:","İÚÇá:"
+117,"Frame:","Cadre:","Marco:","ÅØÇÑ"
+118,"DOC    DAY  # UN.    DUR    Q-SAMPLE  TOTAL","DOC   JOUR  # UN     DUR   Q-ECHANT.  TOTALE","DOC  DIA   # UN   DUR   MUESTRA-Q    TOTAL ","ãÓÊäÏ    íæã   ÚÏÏ ÇáæÍÏÇÊ   ÇáãÏÉ   ÇáÚíäÉ             ÇáÅÌãÇáì"
+119,"New lines","Nouvelles lignes","Nuevas l?neas","ÓØæÑ ÌÏíÏÉ"
+120,"Document","Document","Documento","ãÓÊäÏ"
+121,"Observations on estimations","Observations sur les estimations","Observaciones sobre Estimados","ãáÇÍÙÇÊ Úáì ÇáÊŞÏíÑÇÊ"
+122,"Estimation context","Contexte d'estimation","Contexto estimaci?n","ÊŞÏíÑ"
+123,"Estimated","Estimé","Estimado","ÊŞÏíÑ"
+124,"Not estimated","Pas estimé","No estimado","áÇÊŞÏíÑ"
+125,"No landings","Pas des débarquements","Sin desembarques","áÇÅäÒÇáÇÊ"
+126,"No effort data","Pas de données sur l'effort","Sin esfuerzo","áÇÌåÏ ÕíÏ"
+127,"No frame data","Pas de données cadre","Sin encuesta estructural","áÇÈíÇäÇÊ ÅØÇÑ"
+128,"No active days","Pas des jours actifs","Sin d?as activos","áÇ ÃíÇã Úãá"
+129,"Only one site for landings","Seulement un site pour débarquements","S?lo un sitio desembarque","ãæŞÚ æÇÍÏ ááÅäÒÇáÇÊ"
+130,"Only one day for landings","Seulement un jour pour débarquements","S?lo un d?a desembarque","íæã æÇÍÏ ááÅäÒÇáÇÊ"
+131,"Only one site for effort","Seulement un site pour l'éffort","S?lo un sitio p/esfuerzo","ãæŞÚ æÇÍÏ ááÌåÏ"
+132,"Only one day for effort","Seulement un jour pour l'effort","S?lo un d?a p/ esfuerzo","íæã æÇÍÏ ááÌåÏ"
+133,"Accuracy for BAC below 90%","Exactitude pour CAB inferieure de 90%","Precisi?n CAL menor 90%","ÏŞÉ BAC ÃŞá ãä 90%"
+134,"Accuracy for CPUE below 90%","Exactitude pour CPUE inferieure de 90%","Precisi?n CPUE menor  90%","ÏŞÉ CPUE ÃŞá ãä 90%"
+135,"No price","Pas de prix","Sin precio","áÇíæÌÏ ÓÚÑ"
+136,"No # fish","Pas de N. poissons","Sin # peces","áÇíæÌÏ ÚÏÏ ÇÓãÇß"
+137,"No variance computed for BAC","Variance pour CAB pas calculée","Varianza CAL no calculada","áÇíæÌÏ ÊÚÑÖ İì ÍÓÇÈÇÊ BAC"
+138,"No variance computed for CPUE","Variance pour CPUE pas calculée","Varianza CPUE no calculada","áÇíæÌÏ ÊÚÑÖ İì ÍÓÇÈÇÊ CPUE"
+139,"All boat/gears","Tous bateaux/engins","Todas las lanchas/arte","ßá ÇáŞæÇÑÈ/ ÍÑİ ÇáÕíÏ"
+140,"Extreme data values","Données extrêmes","Datos extremos","ÇŞÕì ŞíãÉ ááÈíÇäÇÊ"
+141,"By minor stratum","Par strate mineure","Por estrato menor","ØÈŞÇ ááİÆÉ ÇáÇÏäì"
+142,"By major stratum","Par strate majeure","Por estrato mayor","ßÈŞÇ ááİÆÉ ÇáÇÚáì"
+143,"GRAND TOTALS","TOTAUX","TOTALES","ÇáŞíãÉ ÇáÇÌãÇáíÉ"
+144,"By boat/gear and species","Par bateau/engin et espèce","Por lancha/arte y especie","ØÈŞÇ ááŞÇÑÈ/ ÇáÍÑİÉ æÇáÇÕäÇİ"
+145,"By species and boat/gear","Par espèce et bateau/engin","Por especie y lancha/arte","ØÈŞÇ ááÃÕäÇİ æÇáŞÇÑÈ/ ÇáÍÑİÉ"
+146,"Boat/gear totals","Totaux bateau/engin","Totales lancha/arte","ÇÌãÇáì ÇáŞæÇÑÈ/ ÇáÍÑİ"
+147,"Species totals","Totaux espèces","Totales p/especie","ÇÌãÇáì ÇáÇÕäÇİ:"
+148,"Minimum","Minimales","M?nimo","ÇáÍÏ ÇáÇÏäì"
+149,"Maximum","Maximales","M?ximo","ÇáÍÏ ÇáÇŞÕì"
+150,"Document","Document","Documento","ãÓÊäÏ"
+151,"CPUE","CPUE","CPUE","ÇáÕíÏ ØÈŞÇ áÌåÏ æÍÏÉ ÇáÕíÏ"
+152,"ESTIMATION OF EFFORT","ESTIMATION D' EFFORT","Estimaci?n esfuerzo","ÊŞÏíÑ ÇáÌåÏ"
+153,"Units sampled","Unités échantillonnées","Unidades muestreadas","æÍÏÇÊ ÇáÚíäÉ"
+154,"Active","Actifs","Activo","İÚÇá"
+155,"BAC - Boat Activity Coefficient","CAB - Coefficient Activité Bâteau/pirogue","CAL - Coeficiente actividad lancha","BAC =ãÚÇãá ßİÇÁÉ ÇáŞÇÑÈ"
+156,"Accuracy level","Niveau exactitude","Nivel precisi?n","ãÓÊæì ÇáÏŞÉ"
+157,"Warning! ( < 90%)","Attention! ( < 90%)","Attencion  (< 90%)","ÊÍĞíÑ ! ( < 90%)"
+158,"BAC variability","Variabilité de CAB","Variabilidad del CAL","ãÚÇãá ßİÇÁÉ ÇáŞÇÑÈ ÇáãÊÛíÑÉ"
+159,"BAC var component (space)","CAB Composante var (espace)","CAL Componente var (espacio)","ãÚÇãá ßİÇÁÉ ÇáŞÇÑÈ ÇáãÊÛíÑÉ ( ááãßÇä )"
+160,"BAC var component (time)","CAB Composante var (temps)","CAL Componente var (tiempo)","ãÚÇãá ßİÇÁÉ ÇáŞÇÑÈ ÇáãÊÛíÑÉ ( ááÒãÇä )"
+161,"BAC lower limit at 95%","CAB limite inferieur","CAL l?mite inferior  95%","ÇáÍÏ ÇáÇÏäì áßİÇÁÉ ÇáŞÇÑÈ ÚäÏ 95%"
+162,"BAC upper limit at 95%","CAB limite superieur","CAL l?mite superior  95%","ÇáÍÏ ÇáÇÚáì áßİÇÁÉ ÇáŞÇÑÈ ÚäÏ 95%"
+163,"Units in frame survey","Unités de l'enquête cadre","Lanchas en encuesta estruct.","ÇáæÍÏÇÊ İì ÇáãÓÍ ÇáÅØÇÑì"
+164,"Active days","Jours actifs","D?as activos","ÇíÇã Úãá"
+165,"Estimated effort (days)","Effort estimé (jours)","Esfuerzo estimado (d?as)","ÊŞÏíÑ ÇáÌåÏ (ÃíÇã)"
+166,"Effort lower limit","Effort limite inferieur","L?mite inferior esfuerzo  95%","ÇáÍÏ ÇáÇÏäì ááÌåÏ ÚäÏ 95%"
+167,"Effort upper limit","Effort limite superieur","L?mite superior fuerzo  95%","ÇáÍÏ ÇáÇÚáì ááÌåÏ ÚäÏ 95%"
+168,"Not computed","Pas calculée","No calculado","áã ÊÍÓÈ"
+169,"Recorder?","Enquêteur?","Encuestador?","ÓÌá ¿"
+170,"ESTIMATION OF CATCH","ESTIMATION DES CAPTURES","Estimaci?n capturas","ÊŞÏíÑ ÇáÕíÏ"
+171,"Sample catch","Captures échantillonnées","Captura muestral","ÚíäÉ ÇáÕíÏ"
+172,"Sample effort","Effort échantillonné","Esfuerzo muestral","ÚíäÉ ÇáÌåÏ"
+173,"CPUE","CPUE","CPUE","ÇáãÕíÏ ØÈŞÇ áÌåÏ ÕíÏ ßá æÍÏÉ ÕíÏ"
+174,"Accuracy level","Niveau exactitude","Nivel precisi?n","ãÓÊæì ÇáÏŞÉ"
+175,"Warning! ( < 90%)","Attention! ( < 90%)","Attencion  (< 90%)","ÊÍĞíÑ ! ( < 90%)"
+176,"CPUE variability","Variabilité de CPUE","Variabilidad CPUE","ãÚÇãá ßİÇÁÉ ÇáãÕíÏ ØÈŞÇ áÌåÏ ÕíÏ ßá æÍÏÉ ÕíÏ"
+177,"CPUE var component (space)","Composante var CPUE (espace)","CPUE Componente var (espacio)","ãÚÇãá ßİÇÁÉ ÇáãÕíÏ ØÈŞÇ áÌåÏ ÕíÏ ßá æÍÏÉ ÕíÏ (ááãßÇä)"
+178,"CPUE var component (time)","Composante var CPUE (temps)","CPUE Componente var (tiempo)","ãÚÇãá ßİÇÁÉ ÇáãÕíÏ ØÈŞÇ áÌåÏ ÕíÏ ßá æÍÏÉ ÕíÏ (ááÒãÇä)"
+179,"CPUE lower limit at 95%","CPUE limite inferieure en 95%","CPUE l?mite inferior 95%","ÇáÍÏ ÇáÇÏäì ááãÕíÏ ØÈŞÇ áÌåÏ ÕíÏ ßá æÍÏÉ ÕíÏ 95%"
+180,"CPUE upper limit at 95%","CPUE limite superieure en 95%","CPUE l?mite superior 95%","ÇáÍÏ ÇáÇÚáì ááãÕíÏ ØÈŞÇ áÌåÏ ÕíÏ ßá æÍÏÉ ÕíÏ 95%"
+181,"Estimated catch","Captures éstimées","Captura estimada","ÊŞÏíÑ ÇáÕíÏ"
+182,"Catch lower limit","Captures limite inferieure","L?mite inferior Captura 95%","ÍÏ ÇáÕíÏ ÇáÇÏäì 95%"
+183,"Catch upper limit","Captures limite superieure","L?mite superior Captura 95%","ÍÏ ÇáÕíÏ ÇáÇÚáì 95%"
+184,"Total value","Valeurs totales","Valor total","ÇáŞíãÉ ÇáÇÌãÇáíÉ"
+185,"Average price","Prix moyen","Precio promedio","ãÊæÓØ ÇáÓÚÑ"
+186,"Catch by species","Captures par espèce","Captura por especie","ÇáÕíÏ ÈÇáÕäİ"
+187,"Fish","Poisson","Pez","ÇÓãÇß"
+188,"No estimations for stratum","Pas des éstimations pour cette strate","Sin estimaci?n p/estrato","áÇÊŞÏíÑÇÊ ááİÆÉ"
+189,"Catch or effort are zeroes","Captures or effort sont zeros","Captura o esfuerzo ceros","ÇáÕíÏ Çæ ÇáÌåÏ íÓÇæì ÕİÑ"
+190,"Catch variability","Variabilité des captures","Variabilidad captura","ãÊÛíÑ ÇáÕíÏ"
+191,"UNITS IN USE","UNITES UTILISEES","Unidades en uso","ÇáæÍÏÇÊ ÇáãÓÊÎÏãÉ"
+192,"Catch in:","Captures en:","Captura en:","ÇáÕíÏ İì:"
+193,"Effort in:","Effort en:","Esfuerzo en:","ÇáÌåÏ Ûì:"
+194,"Prices in:","Prix en:","Precio en:","ÇáÓÚÑ İì:"
+195,"Values in:","Valeurs en:","Valores en:","ÇáŞíãÉ İì:"
+196,"Average weight of fish in:","Poids moyen des poissons en:","Peso promedio peces en:","ãÊæÓØ æÒä ÇáÓãß İì:"
+197,"fish","poisson","pece","ÇÓãÇß"
+198,"Fishing days","Jours de pêche","D?as pesca","ÇíÇã ÇáÕíÏ"
+199,"Aver.W","P.moyen","Peso promedio","ãÊæÓØ ÇáæÒä"
+200,"CPUE in:","CPUE en:","CPUE en:","ÌåÏ ÇáÕíÏ ááæÍÏÉ İì:"
+201,"All species","Toutes espèces","Todas especies","ßá ÇáÇÕäÇİ"
+202,"All boat/gear types","Tous les types bâteau/engin","Todo tipo lancha/arte","ßá ÇáŞæÇÑÈ/ ÍÑİ ÇáÕíÏ"
+203,"Catch by boat/gear types","Captures par type bâteau/engin","Captura por tipo lancha/arte","ÇáÕíÏ ØÈŞÇ ááŞÇÑÈ/ ÍÑİÉ ÇáÕíÏ"
+204,"# sites","N. sites","# Sitios","ÚÏÏ ÇáãæÇŞÚ"
+205,"# days","N. jours","# D?as","ÚÏÏ ÇáÇíÇã"
+206,"Landings sampled","Débarquements échantillonnés","Desembarques muestreados","ÚíäÇÊ ÇáÅäÒÇáÇÊ"
+207,"Smp. size required for accuracy  90%","Taille nécessaire pour exactitude 90%","Tama?o muestra precisi?n 90%","ÍÌã ÇáÚíäÉ áÊÍŞíŞ ãÓÊæì ÏŞÉ 90%"
+208,"Total Units","Unités totales","Total unidades","ÇÌãÇáì ÇáæÍÏÇÊ"
+209,"Catch","Captures","Captura","ÇáÕíÏ"
+210,"Total backup and restore","Sauvegarder / remplacer tous","Backup/Restaurar total","ÇÌãÇáì ÇáÍİÙ æÇáÇÓÊÑÌÇÚ"
+211,"Backup to A:","Sauvegarder sur A:","Backup en A:","Úãá äÓÎÉ Úáì ÇáÇÓØæÇäÉ A:"
+212,"Restore from A:","Remplacer de A:","Reemplazar desde A:","ÇÓÊÑÌÇÚ ãä ÇáÇÓØæÇäÉ A:"
+213,"Export data","Exportation des données","Exportaci?n  datos","ÊÕÏíÑ ÇáÈíÇäÇÊ"
+214,"Tables","Tableaux","Tablas","ÇáÌÏÇæá"
+215,"Results","Résultats","Resultados","ÇáäÊÇÆÌ"
+216,"Import data","Importation des données","Importaci?n datos","ÇÓÊíÑÇÏ ÇáÈíÇäÇÊ"
+217,"Tables","Tableaux","Tablas","ÇáÌÏÇæá"
+218,"Wrong year-month","Erreur (année ou mois)","Error a?o/mes","ÎØÃ ÇáÔåÑ-ÇáÓäÉ"
+219,"Insert blank disk on A:","Nouveau disque sur A:","Diskete nuevo en A:","ÇÏÎá ÇÓØæÇäÉ ÌÇåÒÉ İì A:"
+220,"Disk not empty","Pas de nouveau disque","Diskete no vac?o","ÇáÇÓØæÇäÉ áíÓÊ ÌÇåÒÉ"
+221,"A: not ready","Pas de disque sur A:","Sin diskete en A:","ãßÇä ÇáÇÓØæÇäÉ A :ÛíÑ ÌÇåÒ"
+222,"Operation completed","Opération completée","Operaci?n completada","ÊãÊ ÇáÚãáíÉ"
+223,"Effort","Effort","Esfuerzo","ÌåÏ"
+224,"Landings","Débarquements","Desembarques","ÅäÒÇáÇÊ"
+225,"MINOR STRATA NOT INCLUDED","STRATES MINEURES PAS INCLUES","ESTRATOS MENORES NO INCLUIDOS","áÇíÔÊãá Úáì ÇáİÆÉ ÇáÏäíÇ"
+226,"Not a backup disk","Pas un disque de sauvegarde","No diskete Backup","áíÓÊ ÇÓØæÇäÉ áÚãá äÓÎ"
+227,"Order","Ordre","Orden","ÊÑÊíÈ"
+228,"Minor stratum","Strate mineure","Estrato menor","İÆÉ ÏäíÇ"
+229,"Major stratum","Strate majeure","Estrato mayor","İÆÉ ÚáíÇ"
+230,"This operation will erase all estimates","Cette opération annulera les estimations","Esta operaci?n borra Estimados","åĞÇ ÇáÇÌÑÇÁ ÓíÍĞİ ßá ÇáÊŞÏíÑÇÊ"
+231,"Quit operation","Quitter opération","Salir operaci?n","ÇáÇäÊåÇÁ ãä ÇáÇÌÑÇÁ"
+232,"A full backup on A: is required","Sauvegarde complète en A: est necessaire","Backup en A: es necesario?","ãØáæÈ äÓÎ ßÇãá Úáì ÇáÇÓØæÇäÉ A:"
+233,"Last operation was not a backup","Dernière opération n'etait pas une sauvegarde","Ultima operaci?n no fué backup","ÇáÇÌÑÇÁ ÇáÇÎíÑ áã íßä ÚãáíÉ äÓÎ"
+234,"Species cannot be deleted","Espèce ne peut pas être annulée","Especies no pueden ser borradas","ÇáÇÕäÇİ áÇíãßä ÍĞİåÇ"
+235,"Landings include it","Débarquements avec cette espèce","Desembarques con esta especie","ÇáÅäÒÇáÇÊ ÊÔãá Ğáß"
+236,"List of documents?","Liste des documents?","Lista de documentos?","ÚÑÖ ÇáãÓÊäÏÇÊ¿"
+237,"Total # of documents","N. total des documents","# total documentos","ÇÌãÇáì ÚÏÏ ÇáãÓÊäÏÇÊ"
+238,"Printed","Imprimés","Impresos","ÊãÊ ÇáØÈÇÚÉ"
+239,"List of documents","Liste des documents","Lista de documentos","ÚÑÖ ÇáãÓÊäÏÇÊ"
+240,"Return","Retour","Retorno","ÚæÏÉ"
+241,"Access type: ADMINISTRATION OF TABLES","Type d'accès: ADMINISTRATION DES TABLEAUX","Tipo acceso: ADMINISTRACION TABLAS","äæÚ ÇáÊÔÛíá: ÊÍßã İì ÇáÌÏÇæá"
+242,"Access type: NORMAL (no access to tables)","Type d'accès: NORMAL (sans accès au tableaux)","Tipo acceso: NORMAL (no acceso tablas)","äæÚ ÇáÊÔÛíá: ÚÇÏì ( áÇ ÊÍßã İì ÇáÌÏÇæá)"
+243,"Operations guide","Guide des opérations","Gu?a  operaciones","Ïáíá ÇáÊÔÛíá"
+244,"Large figures - Change units if needed","Chifres trop grands - Changer unités si nécessaire","Cifras grandes - Cambiar unidades si necesario","ŞíãÉ ÚÇáíÉ - Şã ÈÊÛííÑ ÇáæÍÏÇÊ ÚäÏ ÇáÍÇÌÉ"
+245,,,,"ÇáÊŞÇÑíÑ ÇáÍÇáíÉ ÊÊÑÇßã İì"
+246,,,,"C:\ARTBAS\EXPORT\ARTBASIC.XLS"
+247,"Analyse primary data","Analyse données primaires","Analizar datos primarios","ÊÍáíá ãÈÏÆì ááÈíÇäÇÊ"
+248,"Document","Document","Documento","ãÓÊäÏ"
+249,"Catch/effort estimates","Estimations des captures et de l'effort","Estimaciones de capturas y esfuerzo",
+250,"© 2009 FAO of the UN","© 2009 FAO of the UN","© 2009 FAO of the UN",
+251,"Excel option","Option Excel","Opci?n EXCEL",
+252,"Cannot run two programs concurrently.","On ne peut pas travailler avec plus d'un programme à la fois","Cannot run two programs concurrently.",
+253,"Request denied.","Requête pas acceptée","Request denied.",
+254,"If this is the only program then","Si celui là est le seul programme courant, ensuite","If this is the only program then",
+255,"delete C:\ARTBASIC_CURRENT_FOLDER","annuler le répertoire C:\ARTBASIC_CURRENT_FOLDER","delete C:\ARTBASIC_CURRENT_FOLDER",
+256,"and restart.","et relancer.","and restart.",
+257,"Data source","Source des données","Documentos",
+258,"Landings population","Population des débarquements","Poblaci?n de desebarques",
+259,"Population of 0-1 boat status","Population des réponses 0-1 ","Poblaci?n de 0-1 lanchas",
+260,"(***) = Small Populations Sampling Theory","(***) = Small Populations Sampling Theory","(***) = Small Populations Sampling Theory",
+261,"Kg/fish","Kg/poisson","Kg/pece",
+262,"Sample requirements at","Echantillons pour exactitude de","Unidades muestreadas para precisi?n",
+263,"(SPST)=Small Populations Sampling Theory","(SPST)=Small Populations Sampling Theory","(SPST)=Small Populations Sampling Theory",
+264,"No. of landings","N. de débarquements","N. de desembarque",
+265,"No. of 0-1 boat activities","N. activités bateaux 0-1","N. actividades lanchas 0-1",
+266,"No. of fishermen","N. pêcheurs","N. pescadores",
+267,"STRATUM TOTALS","TOTALES PAR STRATE","TOT ESTRATOS",
+268,"An EXCEL application is still open.","Une application EXCEL est déjà active.","Applicaci?n EXCEL presente. ",
+269,"Please close it first before requesting a new report.","Terminer-la pour continuer SVP.","Terminar para continuar.",
+270,"Folder C:\ARTBASIC_TABLES does not exist.","C:\ARTBASIC_TABLES n'existe pas.","No existe C:\ARTBASIC_TABLES.",
+271,"Folder C:\ARTBASIC_RESULTS does not exist.","C:\ARTBASIC_RESULTS n'existe pas.","No existe C:\ARTBASIC_RESULTS.",
+272,"Or check GENERAL.BAT in EXCEL_REPORTS","Ou verifier le lancement du EXCEL en GENERAL.BAT","Tambien controlar comando EXCEL de GENERAL.BAT",
+273,"and verify that EXCEL is loaded correctly.","dans EXCEL_REPORTS.","en EXCEL_REPORTS.",
+274,"International standards","Standards internationaux","Standards internacionales",
+275,"Local standards for names","Standards locaux","Standard locales",
+276,"Create database with all data","Créer une base des données complete","Database de todos datos",
+277,"PLS indicate YES for locally used descriptions. NO for international. CANCEL will terminate operation.","SVP indiquer YES pour noms locals.  NO pour internationaux. Annuler opération avec CANCEL.","Favor indicar YES para idioma local o NO para internacional. ","ÈÑÌÇÁ ÇáÊÃßíÏ"
+278,"Operation completed.","Opération completé.","Operaci?n completada.",
+279,"No data for this period. Cannot create database","Pas des données pour cette periode. Création pas possible..","No existen dados para este per?odo. ",
+280,"Databases YyyyyMmm_ALLDATA.MDB under \EXPORT.","Bases des données YyyyyMyy_ALLDATA.MDB en \EXPORT.","Databases YyyyyMmm_ALLDATA.MDB in \EXPORT.",
+281,"Missing generic database ALLDATA.MDB in \STRUS.","Base des données genérique ALLDATA.MDB en \EXPORTS pas existente.","No existe database generica ALLDATA.MDB in \STRUS.",
+282,"Create also a cumulative database","Créer aussi une base des données cumulative","Database de todos a?os/meses ",
+283,"Cancel operation","Annuler opération","Anular operaci?n","ÊÑÇÌÚ Úä ÇáÑÈØ"
+284,"Database CUMULATIVE_ALLDATA.MDB under \EXPORT.","Base des données CUMULATIVE_MDB en \EXPORT.","Database CUMULATIVE_ALLDATA.MDB in \EXPORT.",
+285,"Click on a period to duplicate ","Clicker en une période pour doubler","Click on a period to duplicate ",
+286,"You will return to the main screen","Vou allez retourner au menu principal","Volver principal",
+287,"Total sampled","Tot. echant.","Tot. muestreado","ÚíäÉ"
+288,"TOT species","TOT espèces","TOT especies","ßá ÇáÇÕäÇİ"
+289,"TOT all species","TOT toutes espèces","TOT todas especies","ßá ÇáÇÕäÇİ"
+290,"Proportion","Proportion","Proporcion",
+291,"Est. catch (all species)","Est. captures (toutes espèces)","Est. capturas (todas especies)",
+292,"Est. catch (species)","Est. captures (espèce)","Est. capturas (especie)",
+293,"Est. total effort","Est. effort total","Est. esfuerzo total",
+294,"CPUE (species)","CPUE (espèce)","CPUE (especie)",
+295,"Aver. Weight","Poids moyen","Peso promedio",
+296,"[02] Overall CPUE: SUM(Col 4)/SUM(Col 1 x Col 2) =","[02] CPUE(toutes esp.): SUM(Col 4)/SUM(Col 1 x Col 2) =","[02] CPUE(todas esp.): SUM(Col 4)/SUM(Col 1 x Col 2) =",
+297,"[03] BAC(%): 100 x SUM(Col 3)/SUM(Col 2) =","[03] CAB(%): 100 x SUM(Col 3)/SUM(Col 2) =","[03] CAL(%): 100 x SUM(Col 3)/SUM(Col 2) =",
+298,"[04] Active days =","[04] Jours actifs =","[04] Dias activos =",
+299,"[05] Boats (Frame survey) =","[05] Bateaux (Enquête cadre) =","[05] Lanchas (Encuesta estructural) =",
+300,"[01] Tot. sample catch: SUM(Col 4) =","[01] Tot. captures echant. = SUM(Col 4) =","[01] Tot. capturas muestr.: SUM(Col 4) =",
+301,"[06] ESTIM. EFFORT: [03] x [04] x [05] =","[06] EFFORT ESTIME: [03] x [04] x [05] =","[06] ESFUERZO ESTIM.: [03] x [04] x [05] =",
+302,"[07] ESTIM. TOTAL CATCH: [02] x [06] =","[07] CAPTURES TOTALES ESTIM.: [02] x [06] =","[07] CAPTURAS TOT. ESTIM.: [02] x [06] =",
+303,"[08] TOT sampled species: SUM(Col 1) =","[08] TOT espèces echant.:SUM(Col 1) =","[08] TOT especias muestr.:SUM(Col 1)",
+304,"[09] Proportion to [01] =","[09] Proportion du [01] =","[09] Proporcion de [01]",
+305,"[10] Estim. species catch: [09] x [07] =","[10] Captures espèces estim.: [09] x [07] =","[10] Capturas especia estim.: [09] x [07]",
+306,"[11] Species CPUE: [10]/[06]","[11] CPUE  espèce: [10]/[06]","[11] CPUE  especia: [10]/[06]",
+307,"[12] Sample tot. value: SUM (Col 4) =","[12] Valeur echant.: SUM (Col 4) =","[12] Valor muestr.:  SUM (Col 4)",
+308,"[13] Average price (***): [11]/[01]   =","[13] Prix moyen(***): [11]/[01] (***) =","[13] Precio promedio (***): [11]/[01]  =",
+309,"[14] Tot. estim. Value: [13] x [10]","[14] Tot. valeur estim.: [13] x [10]","[14] Tot. valor estim.: [13] x [10]",
+310,"[15] Sample #fish: SUM(Col 2) =","[15] N. poissons: SUM(Col 2) =","[15] No. pecies: SUM(Col 2) =",
+311,"[16] Average weight  (***) of a fish: [01]/[15] =","[16] Poids moyen (***) d' un poisson: [01]/[15] =","[16] Peso promedio (***) de uno pescie: [01]/[15]  =",
+312,"[17] TOT estim. #fish: [10]/[16] =","[17] N. poissons total estim.: [10]/[16]","[17] Nombre total pescias estim.: [10]/[16]",
+313,"(***) Average does not include lines with 0 items","(***) Moyens: elements 0 ne sont pas inclus","(***) Promedias excluden 0 elementos",
+314,"TOTALS","TOTAUX","TOTALES",
+315,"[01] TOT SPECIES SAMPLED =","[01] TOT ESPECES ECHANT. =","[01] TOT MUESTR. TODAS ESPECIAS =",
+316,"[06] TOTAL EFFORT =","[06] EFFORT TOTAL =","[06] ESFUERZO TOTAL =",
+317,"[07] TOT ESTIM. CATCH =","[07] TOT CAPTURES ESTIM. =","[07] TOT CAPTURAS ESTIM. =",
+318,,,,
+319,,,,
+320,,,,
+321,,,,
+322,,,,
+323,,,,
+324,,,,
+325,,,,
+326,,,,
+327,,,,
+328,,,,
+329,,,,
+330,,,,
+331,,,,
+332,,,,
+333,,,,
+334,,,,
+335,,,,
+336,,,,
+337,,,,
+338,,,,
+339,,,,
+340,,,,
+341,,,,
+342,,,,
+343,,,,
+344,,,,
+345,,,,
+346,,,,
+347,,,,
+348,,,,
+349,,,,
+350,,,,
+351,,,,
+352,,,,
+353,,,,
+354,,,,
+355,,,,
+356,,,,
+357,,,,
+358,,,,
+359,,,,
+360,,,,
+361,,,,
+362,,,,
+363,,,,
+364,,,,
+365,,,,
+366,,,,
+367,,,,
+368,,,,
+369,,,,
+370,,,,
+371,,,,
+372,,,,
+373,,,,
+374,,,,
+375,,,,
+376,,,,
+377,,,,
+378,,,,
+379,,,,
+380,,,,
+381,,,,
+382,,,,
+383,,,,
+384,,,,
+385,,,,
+386,,,,
+387,,,,
+388,,,,
+389,,,,
+390,,,,
+391,,,,
+392,,,,
+393,,,,
+394,,,,
+395,,,,
+396,,,,
+397,,,,
+398,,,,
+399,,,,
+400,,,,
+401,,,,
+402,,,,
+403,,,,
+404,,,,
+405,,,,
+406,,,,
+407,,,,
+408,,,,
+409,,,,
+410,,,,
+411,,,,
+412,,,,
+413,,,,
+414,,,,
+415,,,,
+416,,,,
+417,,,,
+418,,,,
+419,,,,
+420,,,,
+421,,,,
+422,,,,
+423,,,,
+424,,,,
+425,,,,
+426,,,,
+427,,,,
+428,,,,
+429,,,,
+430,,,,
+431,,,,
+432,,,,
+433,,,,
+434,,,,
+435,,,,
+436,,,,
+437,,,,
+438,,,,
+439,,,,
+440,,,,
+441,,,,
+442,,,,
+443,,,,
+444,,,,
+445,,,,
+446,,,,
+447,,,,
+448,,,,
+449,,,,
+450,,,,
+451,,,,
+452,,,,
+453,,,,
+454,,,,
+455,,,,
+456,,,,
+457,,,,
+458,,,,
+459,,,,
+460,,,,
+461,,,,
+462,,,,
+463,,,,
+464,,,,
+465,,,,
+466,,,,
+467,,,,
+468,,,,
+469,,,,
+470,,,,
+471,,,,
+472,,,,
+473,,,,
+474,,,,
+475,,,,
+476,,,,
+477,,,,
+478,,,,
+479,,,,
+480,,,,
+481,,,,
+482,,,,
+483,,,,
+484,,,,
+485,,,,
+486,,,,
+487,,,,
+488,,,,
+489,,,,
+490,,,,
+491,,,,
+492,,,,
+493,,,,
+494,,,,
+495,,,,
+496,,,,
+497,,,,
+498,,,,
+499,,,,
+500,,,,

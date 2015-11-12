@@ -1,0 +1,12 @@
+0001 LAC TCHAD                      0002
+     0001 BOSSO (LT)                    
+     0002 MAINE (KY) (LT)               
+0002 FLEUVE NIGER                   0003
+     0003 ECOZONE 1 (FN)                
+     0004 ECOZONE 2 (FN)                
+     0005 ECOZONE 3 (FN)                
+0003 AUTRES SYSTEMES                0004
+     0006 ZINDER (AS)                   
+     0007 MARADI (AS)                   
+     0008 TAHOUA (AS)                   
+     0009 TILLABERI (AS)                

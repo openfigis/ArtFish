@@ -1,0 +1,1 @@
+This is the subdirectory where any documents supporting ArtBasic are stored.

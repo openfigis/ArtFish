@@ -1,0 +1,146 @@
+ Species without price in selected data
+ 
+ 01/2007 FLEUVE NIGER / ECOZONE 1 (FN) / Filet Maillant / Guiguiri/
+ 05/2007 FLEUVE NIGER / ECOZONE 1 (FN) / Filet Maillant / Yôlo/
+ 01/2007 FLEUVE NIGER / ECOZONE 1 (FN) / Epervier / Modoria/
+ 01/2007 FLEUVE NIGER / ECOZONE 1 (FN) / Nasse / Bontalba/
+ 05/2007 FLEUVE NIGER / ECOZONE 1 (FN) / Nasse / Kalan Kassi/N'gari/Chémani
+ 05/2007 FLEUVE NIGER / ECOZONE 1 (FN) / Nasse / Modoria/
+ 05/2007 FLEUVE NIGER / ECOZONE 1 (FN) / Nasse / Wassi/
+ 05/2007 FLEUVE NIGER / ECOZONE 1 (FN) / Nasse / Yôlo/
+ 02/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Bontalba/
+ 01/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Daria/Tchi Hakki
+ 02/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Daria/Tchi Hakki
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Daria/Tchi Hakki
+ 01/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Dessi Kirey/Rambochi
+ 02/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Dessi Kirey/Rambochi
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Dessi Kirey/Rambochi
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Dessi Kirey/Rambochi
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Dessi bi/Bakin kihi
+ 02/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Dewa bi/Din ko
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Dewa bi/Din ko
+ 01/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Dewa Kouarey/Ragon Roua
+ 02/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Dewa Kouarey/Ragon Roua
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Dewa Kouarey/Ragon Roua
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Dewa Kouarey/Ragon Roua
+ 01/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Dibarou/
+ 02/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Dibarou/
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Dibarou/
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Dibarou/
+ 01/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Dou/Bour dô
+ 02/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Dou/Bour dô
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Dou/Bour dô
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Dou/Bour dô
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Fotoforo/Boukou/carfassa
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Fotoforo/Boukou/carfassa
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Goney/
+ 01/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Guiguiri/
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Guiguiri/
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Guiguiri/
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Hani/Minjiria
+ 01/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Kalan Kassi/N'gari/Chémani
+ 02/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Kalan Kassi/N'gari/Chémani
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Kalan Kassi/N'gari/Chémani
+ 02/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Modoria/
+ 01/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Salimbélé/Fâliya
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Salimbélé/Fâliya
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Tchéraou/Guiwan roua
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Tchéraou/Guiwan roua
+ 01/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Wassi/
+ 02/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Wassi/
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Wassi/
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Wassi/
+ 01/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Zawey/
+ 02/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Zawey/
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / Zawey/
+ 01/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / AUTRES
+ 02/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / AUTRES
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Filet Maillant / AUTRES
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Daria/Tchi Hakki
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Daria/Tchi Hakki
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Dessi Kirey/Rambochi
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Dessi Kirey/Rambochi
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Dessi bi/Bakin kihi
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Dessi bi/Bakin kihi
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Dewa bi/Din ko
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Dewa Kouarey/Ragon Roua
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Dewa Kouarey/Ragon Roua
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Dibarou/
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Dou/Bour dô
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Dou/Bour dô
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Fotoforo/Boukou/carfassa
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Fotoforo/Boukou/carfassa
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Guiguiri/
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Guiguiri/
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Hani/Minjiria
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Hani/Minjiria
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Kalan Kassi/N'gari/Chémani
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Modoria/
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Modoria/
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Salimbélé/Fâliya
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Tchéraou/Guiwan roua
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Tchéraou/Guiwan roua
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Wassi/
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Wassi/
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Zawey/
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / Zawey/
+ 03/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / AUTRES
+ 05/2007 FLEUVE NIGER / ECOZONE 2 (FN) / Epervier / AUTRES
+ 01/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Daria/Tchi Hakki
+ 02/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Daria/Tchi Hakki
+ 03/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Daria/Tchi Hakki
+ 05/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Daria/Tchi Hakki
+ 02/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Dessi Kirey/Rambochi
+ 05/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Dessi Kirey/Rambochi
+ 01/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Dessi bi/Bakin kihi
+ 02/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Dessi bi/Bakin kihi
+ 03/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Dessi bi/Bakin kihi
+ 03/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Dewa bi/Din ko
+ 05/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Dewa bi/Din ko
+ 01/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Dewa Kouarey/Ragon Roua
+ 05/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Dewa Kouarey/Ragon Roua
+ 03/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Dibarou/
+ 05/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Dibarou/
+ 01/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Dou/Bour dô
+ 02/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Dou/Bour dô
+ 03/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Dou/Bour dô
+ 05/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Dou/Bour dô
+ 01/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Fotoforo/Boukou/carfassa
+ 02/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Fotoforo/Boukou/carfassa
+ 03/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Fotoforo/Boukou/carfassa
+ 05/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Fotoforo/Boukou/carfassa
+ 03/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Goney/
+ 01/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Guiguiri/
+ 02/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Guiguiri/
+ 03/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Guiguiri/
+ 05/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Guiguiri/
+ 03/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Hani/Minjiria
+ 05/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Hani/Minjiria
+ 02/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Kalan Kassi/N'gari/Chémani
+ 03/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Kalan Kassi/N'gari/Chémani
+ 03/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Modoria/
+ 05/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Modoria/
+ 01/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Salimbélé/Fâliya
+ 02/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Salimbélé/Fâliya
+ 03/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Salimbélé/Fâliya
+ 01/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Tchéraou/Guiwan roua
+ 02/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Tchéraou/Guiwan roua
+ 01/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Wassi/
+ 02/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Wassi/
+ 03/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Wassi/
+ 05/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Wassi/
+ 02/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Yôlo/
+ 03/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Yôlo/
+ 05/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Yôlo/
+ 01/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Zawey/
+ 02/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Zawey/
+ 03/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / Zawey/
+ 01/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / AUTRES
+ 02/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / AUTRES
+ 03/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / AUTRES
+ 05/2007 FLEUVE NIGER / ECOZONE 3 (FN) / Filet Maillant / AUTRES
+ 02/2007 AUTRES SYSTEMES / MARADI (AS) / Filet Maillant / AUTRES
+ 02/2007 AUTRES SYSTEMES / MARADI (AS) / Palangre appâté / Dessi bi/Bakin kihi
+ 
+ 17.969 % of the catch in selected data contains species without price.
+ Grouped results will not be exact.

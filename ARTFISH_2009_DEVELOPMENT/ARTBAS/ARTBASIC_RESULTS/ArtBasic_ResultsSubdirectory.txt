@@ -1,0 +1,3 @@
+This is the subdirectory where the ArtBasic Results will be stored 
+before they are passed to the TRANSFER subdirectory 
+by the IMPORT.BAT file

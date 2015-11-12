@@ -1,0 +1,36 @@
+0001 BOSSO (LT)                     0002
+     0001 Blatoungour (BO)              
+     0018 AUTRES (BO)                   
+0002 MAINE (KY) (LT)                0003
+     0002 Tam (MA)                      
+     0020 Lada (MA)                     
+     0019 AUTRES (MA)                   
+0003 ECOZONE 1 (FN)                 0002
+     0003 Ayorou (E1)                   
+     0021 AUTRES (E1)                   
+0004 ECOZONE 2 (FN)                 0004
+     0004 Yantala Barrage (E2)          
+     0005 Boumba (E2)                   
+     0017 Sorkoydo (E2)                 
+     0022 AUTRES (E2)                   
+0005 ECOZONE 3 (FN)                 0004
+     0006 Gaya Commune (E3)             
+     0007 Kombo (E3)                    
+     0008 Pont (E3)                     
+     0023 AUTRES (E3)                   
+0006 ZINDER (AS)                    0004
+     0009 Guidimouni (ZR)               
+     0015 Wiwi (ZR)                     
+     0016 Falki (ZR)                    
+     0024 AUTRES (ZR)                   
+0007 MARADI (AS)                    0002
+     0010 Madarounfa (MI)               
+     0025 AUTRES (MI)                   
+0008 TAHOUA (AS)                    0004
+     0011 Tchérassa (TA)                
+     0012 Dan-Doutchi (TA)              
+     0013 Gawèye (TA)                   
+     0026 AUTRES (TA)                   
+0009 TILLABERI (AS)                 0002
+     0014 Téra Barrage (TI)             
+     0027 AUTRES (TI)                   

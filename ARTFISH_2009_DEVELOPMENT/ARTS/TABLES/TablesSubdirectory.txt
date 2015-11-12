@@ -1,0 +1,3 @@
+This is the subdirectory where all the Reference data 
+(i.e. Major Stratum, Minor Stratum, Landing Sites, Species, etc.)
+is stored.

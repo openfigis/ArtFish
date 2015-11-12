@@ -1,0 +1,21 @@
+0001 Bontalba/                      Clarotes sp                   
+0002 Daria/Tchi Hakki               Distichodus sp                
+0003 Dessi Kirey/Rambochi           Heterobranchus sp             
+0004 Dessi bi/Bakin kihi            Clarias sp                    
+0005 Dewa bi/Din ko                 Bagrus docmac                 
+0006 Dewa Kouarey/Ragon Roua        Bagrus bayad                  
+0007 Dibarou/                       Auchenoglanis sp              
+0008 Dou/Bour dô                    Labeo sp                      
+0009 Fotoforo/Boukou/carfassa       Tilapia sp                    
+0010 Goney/                         Gymnarchus niloticus          
+0011 Guiguiri/                      Synodontis sp                 
+0012 Hani/Minjiria                  Malapterurus electricus       
+0013 Kalan Kassi/N'gari/Chémani     Alestes sp                    
+0014 Kouala/Bali                    Heterotis niloticus           
+0015 Modoria/                       Chrysichtys sp                
+0016 Salimbélé/Fâliya               Citharinus sp                 
+0017 Tchéraou/Guiwan roua           Lates niloticus               
+0018 Wassi/                         Mormyrus sp                   
+0019 Yôlo/                          Mormyrops sp                  
+0020 Zawey/                         Hydrocynus sp                 
+0021 AUTRES                         [FAO ?] AUTRES                        

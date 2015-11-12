@@ -1,0 +1,3 @@
+This is the subdirectory where reports about the current reference tables
+(i.e. Major Stratum, Minor Stratum, Landing sites, Fishing Units, etc...)
+are stored.

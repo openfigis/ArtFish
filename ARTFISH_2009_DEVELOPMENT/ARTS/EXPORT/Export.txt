@@ -1,0 +1,1 @@
+This is the directory where the reports are exported to for ArtSer

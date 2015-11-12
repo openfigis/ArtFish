@@ -1,0 +1,22 @@
+0002 Siganus (black)                [FAO ?] Siganus (black)               
+0003 Boops boops                    [FAO ?] Boops boops                   
+0004 Diplodus sargus sargus         [FAO ?] Diplodus sargus sargus        
+0005 Lichia amia                    [FAO ?] Lichia amia                   
+0006 Pagrus pagrus                  [FAO ?] Pagrus pagrus                 
+0007 Lithognathus mormyrus          [FAO ?] Lithognathus mormyrus         
+0008 Penaeus                        [FAO ?] Penaeus                       
+0009 Dentex dentex                  [FAO ?] Dentex dentex                 
+0010 Sarda sarda                    [FAO ?] Sarda sarda                   
+0011 Auxis rochei                   [FAO ?] Auxis rochei                  
+0013 Serranus cabrilla              [FAO ?] Serranus cabrilla             
+0014 Dentex macrophtalmus           [FAO ?] Dentex macrophtalmus          
+0015 Sphyrnea sphyrnea              [FAO ?] Sphyrnea sphyrnea             
+0017 Odeachilus labeo               [FAO ?] Odeachilus labeo              
+0018 Mullus sp.                     [FAO ?] Mullus sp.                    
+0019 OTHERS                         [FAO ?] OTHERS                        
+0020 Siganus (white)                [FAO ?] Siganus (white)               
+0021 Octopus                        [FAO ?] Octopus                       
+0022 Squid                          [FAO ?] Squid                         
+0023 Seriola dumerili               [FAO ?] Seriola dumerili              
+0024 Crabs                          [FAO ?] Crabs                         
+0025 Rock Fish                      [FAO ?] Rock Fish                     

@@ -1,0 +1,1 @@
+This is the subdirectory that allows transfer of results from ArtBasic to ArtSer (Time-series analysis)

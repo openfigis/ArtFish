@@ -1,0 +1,1 @@
+This is the subdirectory where the data that is being worked on by ArtSer is stored

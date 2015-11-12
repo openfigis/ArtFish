@@ -1,0 +1,3 @@
+0001 LAC TCHAD                      y compris la Komadougou Yobé    000100
+0002 FLEUVE NIGER                   y compris les affluents         000200
+0003 AUTRES SYSTEMES                Mares et retenues artificielles 000300

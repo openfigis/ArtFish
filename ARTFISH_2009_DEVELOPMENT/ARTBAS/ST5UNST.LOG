@@ -1,0 +1,207 @@
+ %% PLEASE DO NOT MODIFY OR DELETE THIS FILE! %% 
+ %% This file contains information about the installation of an application. %% 
+ %% It will be used to automatically remove all application components from your computer if you choose to do so. %% 
+
+
+NOTE: Beginning of the bootstrapper section
+
+CONFIG: Title: "artbasic"
+
+ACTION: TempFile: "C:\WINDOWS\setup1.exe"
+(File was not found or was an older version -- new file copied)
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "SharedDLLs"
+
+ACTION: SharedFile: "C:\WINDOWS\system32\VB5StKit.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\MSVBVM50.dll"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\StdOle2.tlb"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\OleAut32.dll"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\OlePro32.dll"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\AsycFilt.dll"
+(File currently on disk was already up to date)
+
+NOTE: The file 'Ctl3d32.dll' was not copied because it is intended for use under Windows NT 3.51 only.  It is not needed under Windows 95 or NT 4.0.
+
+ACTION: SystemFile: "C:\WINDOWS\system32\Ctl3d32.dll"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\ComCat.dll"
+(File currently on disk was already up to date)
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\MSVBVM50.dll"
+
+ACTION: TLBRegister: "C:\WINDOWS\system32\StdOle2.tlb"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\OleAut32.dll"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\OlePro32.dll"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\ComCat.dll"
+
+NOTE: End of the bootstrapper section
+
+NOTE: Now spawning the main Setup program 'C:\WINDOWS\setup1.exe'....
+
+ACTION: SharedFile: "C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\MSJtEr35.dll"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\MSJInt35.dll"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\MSVCRT40.dll"
+(File currently on disk was already up to date)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\TABCTL32.OCX"
+(File currently on disk was already up to date)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\MSFLXGRD.OCX"
+(File currently on disk was already up to date)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\DBLIST32.OCX"
+(File currently on disk was already up to date)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\DBGRID32.OCX"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\COMDLG32.OCX"
+(File currently on disk was already up to date)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\comctl32.ocx"
+(File currently on disk was already up to date)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\COMCT232.OCX"
+(File currently on disk was already up to date)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\MSINET.OCX"
+(File currently on disk was already up to date)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\RICHTX32.OCX"
+(File currently on disk was already up to date)
+
+NOTE: The file 'RichEd32.dll' was not copied because it is intended for use under Windows 95 only.  It is not needed under Windows NT 3.51 or 4.0.
+
+ACTION: SharedFile: "C:\WINDOWS\system32\MSCHART.OCX"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\MSWINSCK.OCX"
+(File currently on disk was already up to date)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\MSMAPI32.OCX"
+(File currently on disk was already up to date)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\MCI32.OCX"
+(File currently on disk was already up to date)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\PICCLP32.OCX"
+(File currently on disk was already up to date)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\SYSINFO.OCX"
+(File currently on disk was already up to date)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\MSCOMM32.OCX"
+(File currently on disk was already up to date)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\msmask32.ocx"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\MSJet35.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\VBAJet32.dll"
+(File currently on disk was already up to date)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\VB5DB.dll"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\MSRD2x35.dll"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\MsRepl35.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\ODBCJt32.dll"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\ODBCJI32.dll"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\ODBCTL32.dll"
+(File currently on disk was already up to date)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\quartz.dll"
+(File currently on disk was already up to date)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\apiload.exe"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\plugin.ocx"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\ARTBAS\ARTBAS.EXE"
+(File was not found or was an older version -- new file copied)
+
+ACTION: DllSelfRegister: "C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\TABCTL32.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\MSFLXGRD.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\DBLIST32.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\DBGRID32.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\COMDLG32.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\comctl32.ocx"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\COMCT232.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\MSINET.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\RICHTX32.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\MSCHART.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\MSWINSCK.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\MSMAPI32.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\MCI32.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\PICCLP32.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\SYSINFO.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\MSCOMM32.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\msmask32.ocx"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\MSJet35.dll"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\MSRD2x35.dll"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\quartz.dll"
+
+ACTION: ExeSelfRegister: "C:\WINDOWS\system32\apiload.exe"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\plugin.ocx"
+
+ACTION: ShellLink: "", "artbasic"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "App Paths\ARTBAS.EXE"
+
+ACTION: RegValue: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\ARTBAS.EXE", ""
+

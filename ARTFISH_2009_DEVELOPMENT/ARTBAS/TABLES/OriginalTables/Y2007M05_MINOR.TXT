@@ -1,0 +1,9 @@
+0001 BOSSO (LT)                     Zone sud du Lac                 000100
+0002 MAINE (KY) (LT)                Mainé à Bosso                   000200
+0003 ECOZONE 1 (FN)                 Frontière Mali au Bac Farié     000300
+0004 ECOZONE 2 (FN)                 Bac Farié à Boumba              000400
+0005 ECOZONE 3 (FN)                 Boumba à la frontière Nigéria   000500
+0006 ZINDER (AS)                    Lac naturel                     000600
+0007 MARADI (AS)                    Lac naturel                     000700
+0008 TAHOUA (AS)                    Mares et retenue artificielle   000800
+0009 TILLABERI (AS)                 Lac de barrage                  000900

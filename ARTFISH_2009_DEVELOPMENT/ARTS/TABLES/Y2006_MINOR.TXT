@@ -1,0 +1,9 @@
+0001 BOSSO (LT)                     0001 LAC TCHAD                      y compris la Komadougou Yobé   Zone sud du Lac               
+0002 MAINE (KY) (LT)                0001 LAC TCHAD                      y compris les affluents        Mainé à Bosso                 
+0003 ECOZONE 1 (FN)                 0002 FLEUVE NIGER                   Mares et retenues artificielle Frontière Mali au Bac Farié   
+0004 ECOZONE 2 (FN)                 0002 FLEUVE NIGER                    Bac Farié à Boumba            
+0005 ECOZONE 3 (FN)                 0002 FLEUVE NIGER                    Boumba à la frontière Nigéria 
+0006 ZINDER (AS)                    0003 AUTRES SYSTEMES                 Lac naturel                   
+0007 MARADI (AS)                    0003 AUTRES SYSTEMES                 Lac naturel                   
+0008 TAHOUA (AS)                    0003 AUTRES SYSTEMES                 Mares et retenue artificielle 
+0009 TILLABERI (AS)                 0003 AUTRES SYSTEMES                 Lac de barrage                

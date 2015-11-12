@@ -1,0 +1,128 @@
+"April 2007 - Reports","Frame survey","  "
+" ","  ","  "
+"Sites","All boat/gears","# Units"
+" ","  ","  "
+"minor111","small non motorized canoe",5
+"minor111","medium motorized canoe",5
+"minor112","small non motorized canoe",5
+"minor121","small non motorized canoe",5
+"minor122","small non motorized canoe",5
+"minor211","small non motorized canoe",5
+"minor212","small non motorized canoe",5
+"minor311","small non motorized canoe",5
+"minor312","small non motorized canoe",5
+"minor321","small non motorized canoe",5
+"minor322","small non motorized canoe",5
+"minor221","small non motorized canoe",5
+"minor222","small non motorized canoe",5
+"minor112","medium motorized canoe",5
+"minor121","medium motorized canoe",5
+"minor122","medium motorized canoe",5
+"minor211","medium motorized canoe",5
+"minor212","medium motorized canoe",5
+"minor311","medium motorized canoe",5
+"minor312","medium motorized canoe",5
+"minor321","medium motorized canoe",5
+"minor322","medium motorized canoe",5
+"minor221","medium motorized canoe",5
+"minor222","medium motorized canoe",5
+" ","  ","  "
+" "," "," "
+"STRATUM TOTALS"," "," "
+" "," "," "
+"minor11                       ","small non motorized canoe     ",10
+" "," "," "
+"Sample requirements at"," --- 90 % ---","--- 95 % ---"
+" "," "," "
+"No. of landings",14,36
+"No. of 0-1 boat activities",27,63
+"No. of fishermen",4,6
+" "," "," "
+"minor11                       ","medium motorized canoe        ",10
+" "," "," "
+"Sample requirements at"," --- 90 % ---","--- 95 % ---"
+" "," "," "
+"No. of landings",14,36
+"No. of 0-1 boat activities",27,63
+"No. of fishermen",4,6
+" "," "," "
+"minor12                       ","small non motorized canoe     ",10
+" "," "," "
+"Sample requirements at"," --- 90 % ---","--- 95 % ---"
+" "," "," "
+"No. of landings",14,36
+"No. of 0-1 boat activities",27,63
+"No. of fishermen",4,6
+" "," "," "
+"minor12                       ","medium motorized canoe        ",10
+" "," "," "
+"Sample requirements at"," --- 90 % ---","--- 95 % ---"
+" "," "," "
+"No. of landings",14,36
+"No. of 0-1 boat activities",27,63
+"No. of fishermen",4,6
+" "," "," "
+"minor21                       ","small non motorized canoe     ",10
+" "," "," "
+"Sample requirements at"," --- 90 % ---","--- 95 % ---"
+" "," "," "
+"No. of landings",14,36
+"No. of 0-1 boat activities",27,63
+"No. of fishermen",4,6
+" "," "," "
+"minor21                       ","medium motorized canoe        ",10
+" "," "," "
+"Sample requirements at"," --- 90 % ---","--- 95 % ---"
+" "," "," "
+"No. of landings",14,36
+"No. of 0-1 boat activities",27,63
+"No. of fishermen",4,6
+" "," "," "
+"minor22                       ","small non motorized canoe     ",10
+" "," "," "
+"Sample requirements at"," --- 90 % ---","--- 95 % ---"
+" "," "," "
+"No. of landings",14,36
+"No. of 0-1 boat activities",27,63
+"No. of fishermen",4,6
+" "," "," "
+"minor22                       ","medium motorized canoe        ",10
+" "," "," "
+"Sample requirements at"," --- 90 % ---","--- 95 % ---"
+" "," "," "
+"No. of landings",14,36
+"No. of 0-1 boat activities",27,63
+"No. of fishermen",4,6
+" "," "," "
+"minor31                       ","small non motorized canoe     ",10
+" "," "," "
+"Sample requirements at"," --- 90 % ---","--- 95 % ---"
+" "," "," "
+"No. of landings",14,36
+"No. of 0-1 boat activities",27,63
+"No. of fishermen",4,6
+" "," "," "
+"minor31                       ","medium motorized canoe        ",10
+" "," "," "
+"Sample requirements at"," --- 90 % ---","--- 95 % ---"
+" "," "," "
+"No. of landings",14,36
+"No. of 0-1 boat activities",27,63
+"No. of fishermen",4,6
+" "," "," "
+"minor32                       ","small non motorized canoe     ",10
+" "," "," "
+"Sample requirements at"," --- 90 % ---","--- 95 % ---"
+" "," "," "
+"No. of landings",14,36
+"No. of 0-1 boat activities",27,63
+"No. of fishermen",4,6
+" "," "," "
+"minor32                       ","medium motorized canoe        ",10
+" "," "," "
+"Sample requirements at"," --- 90 % ---","--- 95 % ---"
+" "," "," "
+"No. of landings",14,36
+"No. of 0-1 boat activities",27,63
+"No. of fishermen",4,6
+" "," "," "

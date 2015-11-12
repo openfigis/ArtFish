@@ -1,0 +1,6 @@
+"  ","April 2007 - Reports","Fishing units","  "
+" ","  ","  ","  "
+"Code","Description","Remark","SEQ."
+" ","  ","  ","  "
+"0001","small non motorized canoe","...............................","000100"
+"0002","medium motorized canoe","...............................","999999"
